@@ -1,1 +1,1 @@
-Enigma game engine is my first attempt at making a game engine. There will be room for improvement and feel free to share you expertise.
+Enigma game engine is my first attempt at making a game engine. It will contain basic game engine features and some monitoring tools. There will be room for improvement and feel free to share you expertise.
